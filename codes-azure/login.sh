@@ -14,6 +14,9 @@ sleep 3
 # atualizando a lista de repositórios
 sudo apt-get install update
 
+# Instalação do lsb-release
+sudo apt-get install lsb-release -y
+
 # Instalando dependências
 echo " "
 echo "Instalando dependências necessárias..."
