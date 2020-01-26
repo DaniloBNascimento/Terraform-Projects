@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script de instalação do azure cli
-# Autor: Danilo Bastos
+# Autor: Danilo Bastos Nascimento
 # Docs oficiais: https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli-apt?view=azure-cli-latest
 # Data: 16/09/2019
 #********************************#
